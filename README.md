@@ -26,7 +26,7 @@
 ### 🔥 Github 活跃度
 ![ppGo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppGo8&custom_title=ppGo8的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=ppGo8&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![](https://github-readme-activity-graph.vercel.app/graph?username=ppGo8&theme=dracula&custom_title=ppGo8的心电图&radius=10)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ppGo8&theme=dracula&custom_title=ppGo8的日活跃图&radius=10)
 <br>
 
 
