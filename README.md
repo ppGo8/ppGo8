@@ -13,7 +13,7 @@
 </p>
 <br>
 
-<img align="right" src="https://moe-counter.glitch.me/get/@:ppGo8?theme=rule2">
+<img align="right" src="https://moe-counter.glitch.me/get/@:ppGo8?">
 
 <!--
 **ppGo8/ppGo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
