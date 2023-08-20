@@ -2,7 +2,7 @@
   <h1 align="center"><a href="https://github.com/ppGo8">❤️ ppGo8的GitHub 首页</a></h1>
 </p>
 <p align="center">
- 🤝大家好，我是ppGo8;欢迎来到我的Github!
+ 🤝大家好，我是ppGo8。欢迎来到我的Github!
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 <br>
 
-## 🧸 前端工程师—编程细胞
+## 🧸 前端工程师——PPGO8
 
 热爱前端、热爱技术,努力成为一名优秀的前端工程师!<br>
 
