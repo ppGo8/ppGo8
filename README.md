@@ -6,13 +6,12 @@
   <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/> 
   <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
   <img src="https://img.shields.io/static/v1?label=Language&message=Nodejs&color=pink"/>
-
-  <a href="https://ppgo8.github.io/
-"><img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=green"/></a>
+  <a href="https://ppgo8.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=green"/></a>
 </p>
 <br>
 
-<img align="right" src="https://moe-counter.glitch.me/get/@:zhang-bcxb?theme=rule34">
+<img align="right" src="https://moe-counter.glitch.me/get/@:ppGo8?theme=rule34">
+
 <!--
 **ppGo8/ppGo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
