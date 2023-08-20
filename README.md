@@ -12,17 +12,16 @@
   <a href="https://ppgo8.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=green"/></a>
 </p>
 <br>
+
 ## 🧸 前端工程师—编程细胞
 
 热爱前端、热爱技术,努力成为一名优秀的前端工程师!<br>
 
 ### 🍭 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-blog&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-blog)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
-<br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=vue-management-system&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/vue-management-system)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=shop_miniprogramer&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/shop_miniprogramer)
+
 
 ### 🔥 Github 活跃度
 ![ppGo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppGo8&custom_title=ppGo8的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
