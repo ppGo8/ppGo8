@@ -19,6 +19,9 @@
 
 ### 🍭 开源项目
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=vue-management-system&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/vue-management-system)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=vue-management-system-api&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/vue-management-system-api)
+
 
 ### 🔥 Github 活跃度
 ![ppGo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppGo8&custom_title=ppGo8的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
