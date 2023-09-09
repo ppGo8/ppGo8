@@ -21,6 +21,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=vue-management-system&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/vue-management-system)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=vue-management-system-api&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/vue-management-system-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ppGo8&repo=P-Element-Plus&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ppGo8/P-Element-Plus)
 
 
 ### 🔥 Github 活跃度
